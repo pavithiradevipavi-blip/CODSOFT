@@ -40,8 +40,8 @@ The model predicts survival with good accuracy on the test set.
 - Example output: `Model Accuracy: 79.78%`
 
 ## How to Run
-1. Open the notebook `titanic_survival_prediction.ipynb` in Google Colab  
-2. Upload `titanic.csv` dataset  
+1. Open the notebook (Titanic dataset)in Google Colab  
+2. Upload `Titanic-Dataset.csv` dataset  
 3. Run the cells step by step  
 
 ## Author
