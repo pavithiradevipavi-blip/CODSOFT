@@ -41,7 +41,7 @@ The model predicts survival with good accuracy on the test set.
 
 ## How to Run
 1. Open the notebook `Titanic dataset` in Google Colab  
-2. Upload `Titanic-Dataset.csv.csv` dataset  
+2. Upload `Titanic-Dataset.csv` dataset  
 3. Run the cells step by step  
 
 ## Author
