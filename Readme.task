@@ -1,0 +1,30 @@
+# Iris Flower Classification
+
+This project classifies Iris flowers into different species using machine learning.
+
+## Dataset
+Iris Dataset from sklearn
+
+## Tools & Libraries
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+
+## Model Used
+- Logistic Regression
+
+## Workflow
+1. Load Iris dataset
+2. Data preprocessing
+3. Train-test split
+4. Model training
+5. Evaluation using accuracy score
+
+## Results
+- The model achieved high accuracy due to the clean and well-structured dataset.
+- Accuracy obtained: 1.0
+
+## Author
+**A. Pavithira Devi**  
+CodSoft Data Science Internship – December Batch B70
